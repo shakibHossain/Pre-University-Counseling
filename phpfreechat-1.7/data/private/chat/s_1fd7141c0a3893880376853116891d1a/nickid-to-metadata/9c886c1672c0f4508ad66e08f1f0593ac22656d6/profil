@@ -1,0 +1,1 @@
+<a href="demo65_metadata_and_html.php?profil=621" onclick="window.opener.location.href=this.href;return false;">open profil</a>
